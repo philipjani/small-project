@@ -12,5 +12,6 @@ namespace small_project
     /// </summary>
     public partial class App : Application
     {
+        Console.WriteLine("hello world");
     }
 }
